@@ -1,0 +1,9 @@
+Manifest-Version: 1.0
+Specification-Title: enderio_conduits
+Specification-Vendor: EnderIO
+Specification-Version: 6.0.0-alpha
+Implementation-Title: enderio-conduits
+Implementation-Version: 6.0.0-alpha
+Implementation-Vendor: EnderIO
+Implementation-Timestamp: 2025-03-19T21:29:42+0900
+
